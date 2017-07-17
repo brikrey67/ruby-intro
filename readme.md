@@ -19,16 +19,14 @@
 
 ### What is Ruby?
 
-Ruby is a **server-side** programming language, meaning it resides in and is processed by a webpage's server.
-
-![Client-Server Model](http://i.imgur.com/AfiaMQP.png)  
+Ruby is a **server-side** programming language. We will be writing Ruby code that _serves_ webpages.
 
 What is a server?
 * It gathers information from the database, filters it using logic and from that generates something to send back to the user. That could be HTML or, in the case of an API, JSON.
 * That means you cannot look at or mess with a site's server-side code as you did with Javascript via the browser console
 * We won't be including Ruby files in our HTML documents. You'll learn more about back-end development and how to connect everything together next week.
 
-### What's Ruby like?
+### The Ruby Philosophy
 
 #### M.I.N.A.S.W.A.N.
 
