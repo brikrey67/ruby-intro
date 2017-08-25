@@ -405,15 +405,15 @@ end
 
 ## You Do: Data Types Exercises (15 minutes / 0:55)
 
-Complete the first set of exercises (Exercise I: Data Types) in [this repo](https://github.com/ga-wdi-exercises/ruby-basics-exercises).
+Complete the first set of exercises (Exercise I: Data Types) in [this repo](https://git.generalassemb.ly/ga-wdi-exercises/ruby-basics-exercises).
 
-If you finish this section early, feel free to try out one of the [Additional Exercises](https://github.com/ga-wdi-lessons/ruby-intro#additional-practice) located at the bottom of the lesson plan.
+If you finish this section early, feel free to try out one of the [Additional Exercises](https://git.generalassemb.ly/ga-wdi-lessons/ruby-intro#additional-practice) located at the bottom of the lesson plan.
 
 ### Break (10 minutes / 1:15)
 
 ## You Do: Data Collections (10 minutes / 1:25)
 
-Read everything up until the [Data Collections Exercises](#you-do-data-collections-exercises-15-minutes--140) section below this one.
+Read everything up until the [Data Collections Exercises](https://git.generalassemb.ly/ga-wdi-lessons/ruby-intro#you-do-data-collections-exercises-25-minutes--150) section below this one.
 
 ### Arrays
 
@@ -644,11 +644,11 @@ Use ranges to quickly generate arrays of data types.
 
 ## You Do: Data Collections Exercises (25 minutes / 1:50)
 
-> 15 minutes exercise. 10 minutes review.
+> 15 minutes exercise. 10 minutes review. 
 
-Complete the second set of exercises (Exercise II: Data Collections) in [this repo](https://github.com/ga-wdi-exercises/ruby-basics-exercises).
+Complete the second set of exercises (Exercise II: Data Collections) in [this repo](https://git.generalassemb.ly/ga-wdi-exercises/ruby-basics-exercises).
 
-If you finish this section early, feel free to try out one of the [Additional Exercises](https://github.com/ga-wdi-lessons/ruby-intro#additional-practice) located at the bottom of the lesson plan.
+If you finish this section early, feel free to try out one of the [Additional Exercises](https://git.generalassemb.ly/ga-wdi-lessons/ruby-intro#additional-practice) located at the bottom of the lesson plan.
 
 ## Break (5 minutes / 1:55)
 
@@ -715,7 +715,7 @@ double
 
 > 15 minutes exercise. 10 minutes review.
 
-[Temperature Converter (Ruby)](https://github.com/ga-dc/temperature_converter_ruby)
+[Temperature Converter (Ruby)](https://git.generalassemb.ly/ga-wdi-exercises/temperature_converter_ruby)
 
 -----------
 
@@ -786,7 +786,7 @@ a
 
 > 10 minutes exercise. 5 minutes review.
 
-Test out what you just learned with this [Ruby variables exercise](https://github.com/ga-wdi-exercises/ruby_vars_exercise)
+Test out what you just learned with this [Ruby variables exercise](https://git.generalassemb.ly/ga-wdi-exercises/ruby_vars_exercise)
 
 --------
 
@@ -808,8 +808,8 @@ Test out what you just learned with this [Ruby variables exercise](https://githu
   - [WDI8, Ruby Preview](https://youtu.be/Be4YGLovGM4)
 
 ## Additional Practice
-* [Word Ladder](https://github.com/ga-wdi-exercises/word_ladder)
-* [Who Won The Election?](https://github.com/ga-wdi-exercises/who_won_the_election)
-* [Search For Obi-Wan](https://github.com/ga-wdi-exercises/search_for_obi_wan)
-* [Pig-Latin](https://github.com/ga-wdi-exercises/pig_latin)
-* [Letter Counter](https://github.com/ga-wdi-exercises/letter_counter)
+* [Word Ladder](https://git.generalassemb.ly/ga-wdi-exercises/word_ladder)
+* [Who Won The Election?](https://git.generalassemb.ly/ga-wdi-exercises/who_won_the_election)
+* [Search For Obi-Wan](https://git.generalassemb.ly/ga-wdi-exercises/search_for_obi_wan)
+* [Pig-Latin](https://git.generalassemb.ly/ga-wdi-exercises/pig_latin)
+* [Letter Counter](https://git.generalassemb.ly/ga-wdi-exercises/letter_counter)
