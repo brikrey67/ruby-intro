@@ -16,6 +16,7 @@
 ## Lesson
 
 | Time | Section |
+| --- | --- |
 | 0:10 | History/Background |
 | 0:10 | Compare & Contrast |
 | 0:05 | Interacting with Ruby |
@@ -35,7 +36,7 @@
 
 ### What is Ruby?
 
-Ruby is a **server-side** programming language. We will be writing Ruby code that _serves_ webpages.
+Most web apps that you'll encounter are "full-stack", meaning there is a rich client-side part to the application, like those we built for our first project, and a rich server-side to the application, as we'll start building next week. Ruby is a **server-side** programming language. We will be writing Ruby code that _serves_ webpages.
 
 What is a server?
 * It gathers information from the database, filters it using logic and from that generates something to send back to the user. That could be HTML or, in the case of an API, JSON.
