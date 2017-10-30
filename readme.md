@@ -61,7 +61,7 @@ While it isn't exactly simple, a lot of its features are going to feel intuitive
 > "Ruby is simple in appearance, but is very complex inside, just like our human body." — Yukihiro "Matz" Matsumoto  
 
 ## Compare and Contrast, Part 1
-( 10 minutes )
+( 10 minutes / 0:20 )
 
 Think back to the [Try Ruby homework you just completed](https://github.com/ga-wdi-exercises/try-ruby).
 
@@ -70,7 +70,7 @@ Break out in to groups of 3-4 by counting 1 through 4. Remember your number, bec
 With your group, compare and contrast what you learned about Ruby with what you know about JavaScript on the whiteboard. You can do this with a table, a mind map or however you think is best.
 
 ## Interacting with Ruby
-(5 minutes / 0:15)
+(5 minutes / 0:25)
 
 There are 3 ways that we can interact with Ruby. Before we get in to them, we need to make sure we have Ruby set up on our computers.
 
@@ -108,7 +108,7 @@ Just like with JavaScript, we can use [repl.it](https://repl.it/languages/ruby) 
 ## Fundamental Data Types
 
 ### Variables
-(10 minutes)
+(5 minutes / 0:30)
 
 Variables in Ruby are assigned by using a single equals sign ( `=` ):
 
@@ -154,7 +154,7 @@ end
 ```
 
 ## You Do: Data Types
-(15 minutes / 0:40)
+(15 minutes / 0:45)
 
 Spend 15 minutes reading through everything up until the **Data Types Exercises** section below this one.
 
@@ -383,17 +383,17 @@ end
 ```
 
 ## You Do: Data Types Exercises
-(15 minutes / 0:55)
+(15 minutes / 1:00)
 
 Complete the first set of exercises (Exercise I: Data Types) in [this repo](https://git.generalassemb.ly/ga-wdi-exercises/ruby-basics-exercises).
 
 If you finish this section early, feel free to try out one of the [Additional Exercises](https://git.generalassemb.ly/ga-wdi-lessons/ruby-intro#additional-practice) located at the bottom of the lesson plan.
 
 ### Break
-(10 minutes / 1:15)
+(10 minutes / 1:10)
 
 ## We Do: Ruby Bouncer
-(5 minutes / )
+(5 minutes / 1:15)
 Back during our first few lessons on JavaScript, you used conditionals and variables to create a Bouncer. Walk me through how to do the same, but now with Ruby!
 
 ### `puts` and `gets`
@@ -653,19 +653,16 @@ Use ranges to quickly generate arrays of data types.
 ```
 
 ## You Do: Data Collections Exercises
-(25 minutes / 1:50)
+(20 minutes / 1:45)
 
-> 15 minutes exercise. 10 minutes review. 
+> 15 minutes exercise. 5 minutes review. 
 
 Complete the second set of exercises (Exercise II: Data Collections) in [this repo](https://git.generalassemb.ly/ga-wdi-exercises/ruby-basics-exercises).
 
 If you finish this section early, feel free to try out one of the [Additional Exercises](https://git.generalassemb.ly/ga-wdi-lessons/ruby-intro#additional-practice) located at the bottom of the lesson plan.
 
-## Break
-(10 minutes / 1:55)
-
 ## Methods
-(10 minutes / 2:05)
+(10 minutes / 1:55)
 
 As stated before, everything in Ruby is an object so there is no distinction in this language between functions and methods. Under the hood, even seemingly stand-alone functions are in fact associated with an object. The convention, however, is to call these methods.
 
@@ -730,14 +727,14 @@ double
 ```
 
 ## Exercise: Temperature Converter
-(25 minutes / 2:30)
+(25 minutes / 2:20)
 
 > 15 minutes exercise. 10 minutes review.
 
 [Temperature Converter (Ruby)](https://git.generalassemb.ly/ga-wdi-exercises/temperature_converter_ruby)
 
 ## Compare and Contrast, Part 2
-( 10 minutes )
+( 10 minutes / 2:30 )
 
 Break out in to groups of 3-4, this time by creating a group that has at least one person who was each number 1 through 4 from the first exercise (i.e. one #1, one #2, one #3, and one #4 in each group).
 

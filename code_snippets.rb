@@ -2,45 +2,36 @@
 my_favorite_animal = "flying squirrel"
 
 # Parentheses Optional
-  # set up
+# set up
 number = 3
-  # with parens
+# with parens
 if ( number == 3 )
   puts( "It's a 3!")
 end
-  # without parens
+# without parens
 if number == 3
   puts "It's a 3!"
 end
-
-# Puts and Gets
-  # puts
-puts "Hello, Ruby!"
-  # gets
-puts "How old are you?"
-user_input = gets.chom.to_i
-# *if in REPL need to respond to gets before inputting next line*
-puts user_input
 
 # Strings
 name = "John"
 full_name = "John\nDoe"
 puts full_name
-  # Concatenation
+# Concatenation
 "Hello " + "there!"
-  # String multiplication
+# String multiplication
 "Hello there! " * 3
 
-  # Interpolation
-  # Easy Concatenation
+# Interpolation
+# Easy Concatenation
 my_name = "Adrian"
 puts "Hi my name is: " + my_name
 
-  # Type error concatenation
+# Type error concatenation
 class_number = 984
 puts "I am teaching WDI " + class_number
 
-  # Interpolation avoiding type error
+# Interpolation avoiding type error
 class_number = 984
 puts "I am teaching WDI #{class_number}"
 
@@ -68,21 +59,30 @@ favorite_animal = :dog
 puts favorite_animal
 other_favorite_animal = :killer_whale
 another_favorite_animal = :"flying squirrel"
-  # convert symbols to strings
+# convert symbols to strings
 favorite_animal = :dog
 favorite_animal.to_s
 favorite_animal = :dog
 
+# Puts and Gets
+# puts
+puts "Hello, Ruby!"
+# gets
+puts "How old are you?"
+user_input = gets.chom.to_i
+# *if in REPL need to respond to gets before inputting next line*
+puts user_input
+
 #Arrays
-  # definition
+# definition
 numbers = [ 1, 2, 3 ]
 animals = [ "dog", "cat", "horse" ]
-  # access
+# access
 animals[0]
-  # modify
+# modify
 animals[1] = "elephant"
 animals
-  # operations on arrays
+# operations on arrays
 numbers = [ 1, 2, 3 ]
 more_numbers = [ 4, 5, 6, ]
 lots_of_numbers = numbers + more_numbers
@@ -119,19 +119,19 @@ wdi_class = {
   classroom: 2,
   in_session: true,
   schedule: {
-              morning: "Ruby Basics",
-              afternoon: "Enumerables"
-            }
+    morning: "Ruby Basics",
+    afternoon: "Enumerables"
+  }
 }
-  # access
+# access
 wdi_class[:teacher]
-  # modify
+# modify
 wdi_class[:teacher] = "Jack"
 
 # Hash methods
-  # .keys
+# .keys
 wdi_class.keys
-  # .merge
+# .merge
 classroom = {
   room: 1
 }
@@ -170,18 +170,18 @@ else
 end
 
 # Methods
-  # A method that doubles a number. A number-to-be-doubled is taken in as an argument.
-  # Explicit return
+# A method that doubles a number. A number-to-be-doubled is taken in as an argument.
+# Explicit return
 def double( number )
   doubled_number = number * 2
   return doubled_number
 end
-  # implicit return
+# implicit return
 def double( number )
   doubled_number = number * 2
   doubled_number
 end
-  # default arguments (with a side-effect!)
+# default arguments (with a side-effect!)
 def double( number=5 )
   doubled_number = number * 2
   puts "Your doubled number is #{doubled_number}"
