@@ -244,11 +244,11 @@ Not only can you concatenate strings, now you can multiply them too! Remember we
 Sometimes you will want to print out a string that incorporates a variable. For example...
 
 ```rb
-my_name = "Zakk"
-# => "Zakk"
+my_name = "Namey Lee Curtis"
+# => "Namey Lee Curtis"
 
 puts "Hi my name is: " + my_name
-# Hi my name is: Zakk
+# Hi my name is: Namey Lee Curtis
 # => nil
 ```
 
@@ -262,7 +262,7 @@ puts "I am teaching WDI " + class_number
 # TypeError: no implicit conversion of Fixnum into String from (pry):26:in `+'
 ```
 
-In cases like the above, you either need to convert the variable to a string using `.to_s` or use something called "interpolation."
+In cases like the above, you either need to convert the variable to a string using `.to_s` or use something called "string interpolation" (which will call `.to_s` implicitly).
 * Surround the non-string variable with a hashtag and curly brackets: `#{variable}`. If you choose this option, you must use double quotes otherwise the interpolation will not work.
 * This works just like [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) in JavaScript.
 
