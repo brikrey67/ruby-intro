@@ -79,7 +79,7 @@ There are 3 ways that we can interact with Ruby. Before we get in to them, we ne
 
 Check to make sure you have Ruby installed by running this in the Terminal: `$ ruby -v`
 * You should get back something like: `ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin16]`
-* If nothing shows up, run the following: `$ rvm install 2.4` or check the [installation](https://www.ruby-lang.org/en/documentation/installation/) page
+* If nothing shows up, run the following: `$ rbenv install 2.4.p0` or check the [installation page](https://www.ruby-lang.org/en/documentation/installation/#rbenv)
 
 ### Running Ruby
 
